@@ -1,4 +1,4 @@
-This is a random background generator that I created for fun.
-Current status: work in progress.
-May get updated eventually.
-Last time site is updated will be at bottom of site.
+This is a random background generator that I created for fun.<br>
+Current status: work in progress.<br>
+May get updated eventually.<br>
+Last time site is updated will be at bottom of site.<br>
